@@ -1,0 +1,4 @@
+echo "streamlit" > requirements.txt
+echo "xgboost" >> requirements.txt
+echo "pandas" >> requirements.txt
+# Ajoutez toutes les autres dépendances nécessaires de votre projet
